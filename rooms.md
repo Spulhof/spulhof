@@ -11,18 +11,18 @@ sitemap:
 
 <!-- <span class="image left"><img src="{{ "/images/spulhof-abtenau-lammertal-7.jpg" | absolute_url }}" alt="" /></span> -->
 
-Wir vermieten 2 neu errichtete Ferienwohnungen für 2-6 Personen komplett ausgestattet mit Balkon am idyllischen Radochsberg in Abtenau!
+Wir vermieten zwei neu errichtete Ferienwohnungen für 2-6 Personen komplett ausgestattet mit Balkon am idyllischen Radochsberg in Abtenau!
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="{{ '/spulhof/images/fewo2.jpg' | relative_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ '/spulhof/images/fewo1.jpg' | relative_url }}" alt="" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="{{ '/spulhof/images/fewo4.jpg' | relative_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/images/fewo2.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/images/fewo1.jpg" alt="" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="{{site.baseurl}}/images/fewo4.jpg" alt="" /></span></div>
   </div>
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="{{ '/spulhof/images/fewo7.jpg' | relative_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ '/spulhof/images/fewo5.jpg' | relative_url }}" alt="" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="{{ '/spulhof/images/fewo6.jpg' | relative_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/images/fewo7.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/images/fewo5.jpg" alt="" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="{{site.baseurl}}/images/fewo6.jpg" alt="" /></span></div>
   </div>
 </div>
 

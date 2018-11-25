@@ -19,9 +19,9 @@ Nur etwa 60 Autokilometer von der Stadt Salzburg entfernt, liegt der Spulhof in 
 
 <div class="box alt" style="margin-top:16px">
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="{{ '/spulhof/images/spulhof-abtenau-lammertal-8.jpg' | relative_url }}" alt="Haus Spulhof" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ '/spulhof/images/spulhof-abtenau-lammertal-3.jpg' | relative_url }}" alt="Straße durch den Wald zum Spulhof" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ '/spulhof/images/spulhof-abtenau-lammertal-2.jpg' | relative_url }}" alt="Spulhof im Winter" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/images/spulhof-abtenau-lammertal-8.jpg" alt="Haus Spulhof" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/images/spulhof-abtenau-lammertal-3.jpg" alt="Straße durch den Wald zum Spulhof" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/images/spulhof-abtenau-lammertal-2.jpg" alt="Spulhof im Winter" /></span></div>
   </div>
 </div>
 
