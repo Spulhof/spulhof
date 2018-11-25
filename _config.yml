@@ -1,11 +1,11 @@
 # Site
 title:              Spulhof
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-background_image:   /images/bg_green.jpg
+bio:                'Homepage des Spulhofs in Abtenau'
+description:        "Unser Bauernhof befindet sich ca. 9 Kilometer ausserhalb des Ortszentrum. Abgeschieden mitten in der Natur, umgeben vom schönen Tennengebirge, sind Ihnen hier erholsame und ruhige Tage garantiert."
+locale:             de_AT
+baseurl: "/spulhof/" # the subpath of your site, e.g. /blog
+url: "spulhof.github.io/spulhof/" # the base hostname & protocol for your site
+background_image:   /spulhof/images/bg_green.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 formspree_thankyou_page: /thank-you
 
@@ -54,6 +54,7 @@ gems:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  # - jekyll-github-metadata
 
 paginate: 6
 paginate_path: "/blog/page:num/"

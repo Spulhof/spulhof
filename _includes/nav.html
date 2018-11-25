@@ -1,9 +1,9 @@
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
-  <li class="{% if page.url contains '/rooms/' %} active {% endif %}"><a href="{{ "/rooms/" | absolute_url }}">Zimmer & Preise</a></li>
-  <li class="{% if page.url contains '/book/' %} active {% endif %}"><a href="{{ "/book/" | absolute_url }}">Buchen</a></li>
-  <li class="{% if page.url contains '/location/' %} active {% endif %}"><a href="{{ "/location/" | absolute_url }}">Lage</a></li>
-  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/impressum/" | absolute_url }}">Impressum</a></li>
+  <li class="{% if page.url == site.baseurl %} active {% endif %}"><a href="{{ '/spulhof/' | relative_url }}">Home</a></li>
+  <li class="{% if page.url contains '/rooms/' %} active {% endif %}"><a href="{{ '/spulhof/rooms/'' | relative_url }}">Zimmer & Preise</a></li>
+  <li class="{% if page.url contains '/book/' %} active {% endif %}"><a href="{{ '/spulhof/book/' | relative_url }}">Buchen</a></li>
+  <li class="{% if page.url contains '/location/' %} active {% endif %}"><a href="{{ '/spulhof/location/' | relative_url }}">Lage</a></li>
+  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ '/spulhof/impressum/' | relative_url }}">Impressum</a></li>
   <!-- <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Referenz</a></li> -->
 </ul>
 

@@ -15,14 +15,14 @@ Wir vermieten 2 neu errichtete Ferienwohnungen für 2-6 Personen komplett ausges
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="{{ "/images/fewo2.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/images/fewo1.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="{{ "/images/fewo4.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{ '/spulhof/images/fewo2.jpg' | relative_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{ '/spulhof/images/fewo1.jpg' | relative_url }}" alt="" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="{{ '/spulhof/images/fewo4.jpg' | relative_url }}" alt="" /></span></div>
   </div>
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="{{ "/images/fewo7.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ "/images/fewo5.jpg" | absolute_url }}" alt="" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="{{ "/images/fewo6.jpg" | absolute_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{ '/spulhof/images/fewo7.jpg' | relative_url }}" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{ '/spulhof/images/fewo5.jpg' | relative_url }}" alt="" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="{{ '/spulhof/images/fewo6.jpg' | relative_url }}" alt="" /></span></div>
   </div>
 </div>
 
