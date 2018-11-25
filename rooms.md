@@ -77,7 +77,8 @@ Die Appartements bestehen aus 2 Dreibettzimmer, Wohnküche, WC, Bad, Vorraum sow
     <td>€ 90,-</td>
     <td>€ 87,-</td>
   </tr>
-  <tr>
-    <td colspan="4" style="text-align: left">Endreinigung € 40,-</td>
-  </tr>
 </table>
+
+Preise inkl. Strom, Heizung und Bettwäsche, excl. Endreinigung €30,-.
+
+Preise exkl. Ortstaxe- ab 15 Jahren € 1,60.
